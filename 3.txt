@@ -1,1 +1,2 @@
 This is the 3rd file added in the Feature 2 branch.
+This file is updated in the hotfix branch.
